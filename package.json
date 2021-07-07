@@ -12,7 +12,7 @@
   "dependencies": {
     "classnames": "^1.2.0",
     "lodash": "^3.5.0",
-    "react-input-autosize": "^0.4.3"
+    "react-input-autosize": "^0.6.13"
   },
   "devDependencies": {
     "babel-eslint": "^2.0.2",
